@@ -1,4 +1,4 @@
-https://www.bitrise.io/app/b045eb226b27d68d.svg?token=augpTQNTAySM77Mfok1Ymg
+[![Build Status](https://www.bitrise.io/app/b045eb226b27d68d.svg?token=augpTQNTAySM77Mfok1Ymg&branch=master)](https://www.bitrise.io/app/b045eb226b27d68d)
 
 ## Synopsis
 
