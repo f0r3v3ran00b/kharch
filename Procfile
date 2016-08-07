@@ -1,1 +1,1 @@
-web: java -jar ./build/libs/gs-spring-boot-0.1.0.jar
+web: java -Dserver.port=5050 -jar ./build/libs/gs-spring-boot-0.1.0.jar
