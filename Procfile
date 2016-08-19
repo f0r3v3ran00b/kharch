@@ -1,1 +1,1 @@
-web: java $JAVA_OPTS -Dserver.port=$PORT -jar ./build/libs/gs-spring-boot-0.1.0.jar
+web: java $JAVA_OPTS -Dserver.port=$PORT -jar ./build/libs/kharch-0.0.1-SNAPSHOT.jar
